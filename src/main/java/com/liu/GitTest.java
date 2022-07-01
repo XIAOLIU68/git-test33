@@ -11,7 +11,7 @@ public class GitTest {
         System.out.println("hello git6666!");
         System.out.println("master git6666!");
         System.out.println("hot-fix TEST!!");
-        System.out.println("pull TEST!!");
+        System.out.println("pull TEST!!网页端修改了");
 
 
     }

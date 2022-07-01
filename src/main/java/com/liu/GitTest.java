@@ -12,7 +12,7 @@ public class GitTest {
         System.out.println("master git6666!");
         System.out.println("hot-fix TEST!!");
         System.out.println("pull TEST!!网页端修改了");
-
+        System.out.println("pull TEST!!这是网页拉取到本地仓库");
 
     }
 }
